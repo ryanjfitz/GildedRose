@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GildedRose.Console/GildedRose.Console.csproj" />
+  <Project Path="GildedRose.Lib/GildedRose.Lib.csproj" />
+  <Project Path="GildedRose.Tests/GildedRose.Tests.csproj" />
+</Solution>
